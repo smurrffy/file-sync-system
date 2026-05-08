@@ -1,0 +1,3 @@
+This is a placeholder representing a large binary file (e.g. a PDF).
+It is used to test that fss_manager correctly syncs non-text files
+between a source and target directory.

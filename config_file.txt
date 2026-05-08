@@ -1,0 +1,4 @@
+tests/folder1 tests/folder2
+tests/folder3 tests/folder4
+tests/folder5 tests/folder6
+tests/folder1 SKIP_BECAUSE_OF_DUPLICATE
